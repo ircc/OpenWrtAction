@@ -2,14 +2,30 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-6afd99957b|Tianling Shen|Wed Dec 3 14:10:00 2025 +0800|Merge Official Source
-5e3a602def|Rosen Penev|Sat Jun 15 15:13:07 2024 -0700|ath79: sitecom,wlrx100: use nvmem
-ff1419f895|Rani Hod|Tue Oct 7 17:54:55 2025 +0300|mediatek: filogic: add support for Widelantech WAP430X
-e5b86c2320|Rosen Penev|Fri Jun 14 11:50:06 2024 -0700|ath79: ecb1xxx: use nvmem
-616b0cebe7|Rosen Penev|Fri Nov 28 15:31:24 2025 -0800|gpio-button-hotplug: use devm_kmemdup_array
-5b263f3360|Rosen Penev|Sun Aug 31 14:01:55 2025 -0700|treewide: add const to static arrays
-4ffd5aa239|Rosen Penev|Sun Nov 3 14:11:30 2024 -0800|treewide: fix coccinelle checks
-55b5e44673|Rosen Penev|Sat Jun 22 10:46:07 2024 -0700|ath79: ews511ap: use nvmem
-d0fcbddaad|gongzi miao|Mon Dec 1 19:30:51 2025 +0800|kernel: bump 6.12 to 6.12.60
-141ac0b2bd|Sven Eckelmann|Mon Dec 1 13:58:40 2025 +0100|realtek: dsa: rtl930x: Fix flow control with ingress shaping
+d38a97e73a|Tianling Shen|Fri Dec 5 09:19:49 2025 +0800|Merge Official Source
+cc57e155a6|Christian Marangi|Fri Dec 5 00:54:38 2025 +0100|airoha: fix kernel panic from I2S driver
+7b55651e61|Christian Marangi|Thu Dec 4 23:14:30 2025 +0100|airoha: enable I2S sound driver and add nodes for eMMC RFB board
+8f1914053b|Christian Marangi|Thu Dec 4 23:13:12 2025 +0100|airoha: replace I2S patch with upstream pending version
+d6b4b63850|Caleb James DeLisle|Fri Nov 7 17:45:01 2025 +0000|econet: basic Ethernet support
+dac466452b|Caleb James DeLisle|Fri Nov 7 16:59:10 2025 +0000|econet: standardize partitions in DTS files
+4582d25a66|Tianling Shen|Wed Dec 3 14:36:32 2025 +0800|rockchip: backport MMC CQE fixes
+5aeaddc0c8|Hauke Mehrtens|Thu Dec 4 21:33:13 2025 +0100|bcm47xx: Fix lzma-loader compilation
+27e5d7ddd9|Hauke Mehrtens|Thu Dec 4 21:12:24 2025 +0100|ramips: Fix cmpilation
+4814636b9b|Álvaro Fernández Rojas|Tue Dec 2 09:18:48 2025 +0100|generic: 6.12: backport b53 fixes for BCM5325
+6c94b53f11|Christian Marangi|Thu Dec 4 19:20:55 2025 +0100|sdk: use GIT_COMMIT for buildbot SDK
+289172b00e|Christian Marangi|Thu Dec 4 19:11:17 2025 +0100|sdk: invert logic for GIT_BRANCH and GIT_TAGNAME
+0338dd44d5|Christian Marangi|Thu Dec 4 19:08:08 2025 +0100|sdk: filter out main on GIT_BRANCH parsing
+78a8cfb577|Christian Marangi|Thu Dec 4 16:32:03 2025 +0100|tools: gnulib: fix broken install of .m4 files
+9c6dbb0e3d|Shiji Yang|Tue Dec 2 00:06:45 2025 +0800|busybox: fix regression for long long type dump support
+1db4155aa9|Robert Marko|Thu Dec 4 11:31:01 2025 +0100|qca-nss-dp: update to Git HEAD (2025-11-24)
+af853d3d38|Robert Marko|Thu Dec 4 11:05:43 2025 +0100|rpcd: update to Git HEAD (2025-12-03)
+316a85ed91|Goetz Goerisch|Mon Dec 1 11:33:11 2025 +0100|odhcpd: update to Git HEAD (2025-12-01)
+cdaf3756de|Tianling Shen|Thu Dec 4 11:25:18 2025 +0800|Merge Official Source
+070c13cbdd|Tianling Shen|Thu Dec 4 10:13:20 2025 +0800|bridger: update to Git HEAD (2025-10-23)
+cd9229d061|Hauke Mehrtens|Wed Dec 3 22:46:44 2025 +0100|treewide: Fix const compile errors
+6f2325b23d|Mikhail Zadorozhnyi|Sun Oct 12 17:52:35 2025 +0300|mvebu: gl-mv1000: add devicetree patch for sdhci1
+8ad5f35a90|Christian Marangi|Wed Dec 3 19:58:00 2025 +0100|autoconf-archive: backport patch for C++23 support
+c820f097e0|Christian Marangi|Wed Dec 3 18:39:52 2025 +0100|tools: gnulib: install .m4 file with gl_ prefix
+5205c0c426|Robert Marko|Thu Sep 25 22:44:10 2025 +0200|microchipsw: lan969x: add Microchip EV23X71A
+88a404a2d1|Robert Marko|Wed Sep 24 12:24:26 2025 +0200|microchipsw: add support for Microchip LAN969x switches
 </details>
