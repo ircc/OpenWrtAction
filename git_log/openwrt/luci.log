@@ -2,6 +2,5 @@
 
 SHA|Author|Date|Message
 -|-|-|-
-7fe6194cdb|Hannu Nyman|Sat Dec 20 16:53:01 2025 +0200|treewide: sync translations
-4b35b0a937|Hosted Weblate|Sat Dec 20 15:35:50 2025 +0100|Translated using Weblate (Persian)
+371f441591|Paul Donald|Mon Dec 22 02:07:08 2025 +0100|luci-mod-status: fix case error
 </details>
